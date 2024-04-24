@@ -7,7 +7,8 @@ require("dotenv").config();
 const connectDb = async () => {
   try {
     const connect = await mongoose.connect(process.env.MONGO_URL, {});
-    Receita.insertMany(receitas);
+   //  await mongoose.connection.db.dropDatabase();
+    // Receita.insertMany(receitas);
     console.log(`MongoDB connected: ${connect.connection.host}`);
   } catch (error) {
     console.error(`ERROR: ${error.message}`);
