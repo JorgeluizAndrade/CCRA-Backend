@@ -19,6 +19,7 @@ const receitas = [
         "Depois, molde a massa no formato de bifes.",
         "Frite em óleo quente até dourar.",
       ],
+      imagem: "https://www.pensamentoverde.com.br/wp-content/uploads/2018/02/bife-2.png"
     },
     {
       nome: "Salgadinho de Casca de Batata",
@@ -28,6 +29,7 @@ const receitas = [
         "Escorra, frite-as em óleo quente até ficarem douradas e secas.",
         "Depois é só temperar com sal e servir.",
       ],
+      imagem: "https://www.saboresajinomoto.com.br/uploads/images/recipes/chips-de-casca-de-batata.webp"
     },
     {
       nome: "Doce de Casca de Maracujá",
@@ -44,6 +46,7 @@ const receitas = [
         "Depois, acrescente o suco de maracujá e cozinhe até ferver e deixe no fogo por mais 5 minutos.",
         "Coloque em potinhos (ou em cascas de maracujá no formato de copo) e sirva gelado.",
       ],
+      imagem: "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-doce-casca-maracuja.jpg"
     },
     {
       nome: "Sopa de Folhas e Talos",
@@ -59,6 +62,7 @@ const receitas = [
         "Em uma panela grande, aqueça o restante do azeite, refogue a cebola e acrescente a água.",
         "Junte aos poucos a farinha e tempere com sal. Mexa bem e em seguida junte os talos refogados.",
       ],
+      imagem: "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-3850-2199070dc6cc232541e95eb8bde5da4b.jpg"
     },
     {
       nome: "Sobras de Nabo Cozidas",
@@ -79,6 +83,7 @@ const receitas = [
         "Em outro recipiente junte os pães, leite de coco e sal e deixe de molho durante 10 minutos.",
         "Depois, acrescente o nabo, coloque em uma assadeira untada e deixe dourar em forno quente.",
       ],
+      imagem: "https://img.freepik.com/fotos-gratis/salada-de-batata-de-alto-angulo-na-tigela_23-2148619028.jpg"
     },
   ];
   
